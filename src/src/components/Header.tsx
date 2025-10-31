@@ -8,7 +8,7 @@ export function Header() {
         <div className="header-content">
           <div className="header-left">
             <h1 className="header-title">
-              mETH Confidential Staking
+              Blackbox Staking
             </h1>
             <span className="header-badge">Sepolia Testnet</span>
           </div>
